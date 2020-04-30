@@ -1,0 +1,5 @@
+export const USER_POST = 'USER_POST';
+
+export const USER_POST_SUCCESS = 'USER_POST_SUCCESS';
+
+export const USER_POST_FAILED = 'USER_POST_POST';
